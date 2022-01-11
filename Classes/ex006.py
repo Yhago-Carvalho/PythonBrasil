@@ -6,6 +6,9 @@ dentro de faixas válidas.
 >>> tv.aumentarVolume()
 >>> tv.mostrarVolume()
 100
+>>> tv.diminuirVolume()
+>>> tv.mostrarVolume()
+99
 '''
 
 class TV():
